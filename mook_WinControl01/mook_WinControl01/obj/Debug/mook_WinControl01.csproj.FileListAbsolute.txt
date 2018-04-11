@@ -1,0 +1,9 @@
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\bin\Debug\mook_WinControl01.exe.config
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\bin\Debug\mook_WinControl01.exe
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\bin\Debug\mook_WinControl01.pdb
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.csprojResolveAssemblyReference.cache
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.Form1.resources
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.Properties.Resources.resources
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.csproj.GenerateResource.Cache
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.exe
+c:\users\kyh\documents\visual studio 2015\Projects\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.pdb
